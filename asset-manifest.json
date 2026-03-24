@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.27ab273a.css",
+    "main.js": "/portfolio/static/js/main.31c4d8fa.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.e80d4e7a89495e3ed764d52bccb39390.svg",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera.pdf": "/portfolio/static/media/Soumyajit_Behera.0a483621860835f0c118.pdf",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.bf384616278ce8640eb48b9a683c03e1.svg",
+    "static/media/Mongo.svg": "/portfolio/static/media/Mongo.2c5a056ee9abf56973ee685904548bb8.svg",
+    "static/media/Postman.svg": "/portfolio/static/media/Postman.6ad333ddb332edba5d093c0f6ef5ae00.svg",
+    "static/media/intellij-idea.svg": "/portfolio/static/media/intellij-idea.a3d71dc3bbbb019fb84226baae835b3a.svg",
+    "static/media/vscode.svg": "/portfolio/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/portfolio/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/React.svg": "/portfolio/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/pre.svg": "/portfolio/static/media/pre.61373d363fcc012393f4.svg",
+    "static/media/Node.svg": "/portfolio/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
+    "static/media/Redux.svg": "/portfolio/static/media/Redux.e3c7fe5a7438fc995059e630a167bc96.svg",
+    "static/media/Javascript.svg": "/portfolio/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Typescript.svg": "/portfolio/static/media/Typescript.774303fe4118066257168b3609fd95a3.svg",
+    "static/media/Git.svg": "/portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/Tailwind.svg": "/portfolio/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
+    "static/media/Apple MacOSX.svg": "/portfolio/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
+    "static/media/MUI.svg": "/portfolio/static/media/MUI.4cc8e67288fab7f3ae7b7d8449ec35d7.svg",
+    "static/media/Firebase.svg": "/portfolio/static/media/Firebase.de3da3a4068963dd30fc0f885f170428.svg",
+    "main.27ab273a.css.map": "/portfolio/static/css/main.27ab273a.css.map",
+    "main.31c4d8fa.js.map": "/portfolio/static/js/main.31c4d8fa.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ab273a.css",
+    "static/js/main.31c4d8fa.js"
+  ]
+}
